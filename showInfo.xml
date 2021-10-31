@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<myInfo>
+  <plumbing>
+    <name>Resedential</name>
+    <type>Bioler</type>
+    <hours>4 hours</hours>
+    <fullTime>yes</fullTime>
+    <color>chocolate</color>
+  </plumbing>
+  <plumbing>
+    <name>Commercial</name>
+    <type>Ventilation</type>
+    <hours>12 hours</hours>
+    <fullTime>yes</fullTime>
+    <color>yellow</color>
+  </plumbing>
+  <plumbing>
+    <name>Industerial</name>
+    <type>Sprinkler</type>
+    <hours>10 hours</hours>
+    <fullTime>yes</fullTime>
+    <color>chocolate</color>
+  </plumbing>
+</myInfo>
