@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "title": "Love Running- RWD Demo",
+        "description": "A demonstration about working with Media Query to create a responsive website using the following technologies:",
+        "tech": [
+            "HTML5",
+            "CSS3",
+            "Font Awesome"
+        ],
+        "liveDemo": "https://anmarjarjees.github.io/love-running-demo/",
+        "githubCode": "https://github.com/anmarjarjees/love-running-demo"
+    },
+    {
+        "id": 2,
+        "title": "Bootstrap Framework",
+        "description": "A demonstration about working with Bootstrap Framework using the following technologies:",
+        "tech": [
+            "HTML5",
+            "CSS3",
+            "BootStrap Framework"
+        ],
+        "liveDemo": "https://anmarjarjees.github.io/bootstrap4.6-website-sample/",
+        "githubCode": "https://github.com/anmarjarjees/bootstrap4.6-website-sample"
+    },
+    {
+        "id": 3,
+        "title": "Interactive Frontend Development",
+        "description": "A demonstration about working with Bootstrap Framework, JavaScript/jQuery, and API AJAX requests",
+        "tech": [
+            "HTML5",
+            "CSS3",
+            "BootStrap Framework",
+            "JavaScript",
+            "jQuery",
+            "AJAX"
+        ],
+        "liveDemo": "Live Link",
+        "githubCode": "https://github.com/anmarjarjees/fssd-api-all-together"
+    }
+]
